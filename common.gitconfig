@@ -1,0 +1,12 @@
+[user]
+   name = dev/null
+[include]
+   path = ~/.gitconfig-local
+[color]
+   branch = auto
+   diff = auto
+   interactive = auto
+   status = auto
+   ui = auto
+[push]
+   default = nothing
