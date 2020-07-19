@@ -1,3 +1,5 @@
+![CI](https://github.com/obcifra/dotfiles/workflows/CI/badge.svg)
+
 # Zero Day Checklist
 These checklists are intended to configure a new development environment.
 
