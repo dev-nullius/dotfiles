@@ -1,7 +1,7 @@
 # vim: set ft=muttrc:
 
-set realname = dev/null
-set from = "669802+dev-nullius@users.noreply.github.com"
+set realname = ""
+set from = ""
 set use_from = yes
 set envelope_from = yes
 
@@ -9,9 +9,9 @@ set ssl_starttls = yes
 set ssl_force_tls = yes
 
 # Protocol: smtp for TLS (587), smtps for SSL (465)
-set smtp_url = "smtp://669802+dev-nullius@users.noreply.github.com@smtp.gmail.com:587/"
+set smtp_url = "smtp://email@smtp.gmail.com:587/"
 set smtp_pass = `pass Email/gmail.com/IMAP`
-set imap_user = "669802+dev-nullius@users.noreply.github.com"
+set imap_user = "email@gmail.com"
 set imap_pass = `pass Email/gmail.com/IMAP`
 set imap_keepalive = 900
 set folder = "imaps://imap.gmail.com:993"
