@@ -1,7 +1,7 @@
 [core]
    editor = vim
 [user]
-   name = "dev/null"
+   name = "Cifra Obscura"
 [alias]
    lg = log --graph --oneline --decorate --all
 [include]
